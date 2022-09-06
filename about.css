@@ -1,0 +1,10 @@
+p{
+  font-size: 2em;
+  color: black;
+  font-weight: 700;
+  margin-top: 1.4em;
+  background-color: rgba(255, 255, 255, 0.456);
+  padding: 2em;
+  border-radius: 2em;
+  border: solid black 2px;
+}
